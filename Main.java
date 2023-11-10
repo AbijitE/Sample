@@ -7,6 +7,7 @@ public class Main {
 		System.out.println("This is my first project to commit in Git Repository");
 	System.out.println(new Date());
 	System.out.println("Updated");
+	System.out.println("Added one more");
 	}
 
 }
